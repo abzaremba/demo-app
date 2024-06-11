@@ -132,7 +132,7 @@ export default function Chat() {
               })
             }
           >
-            Generate Joke
+            Generate Story
           </button>
 
           <div
